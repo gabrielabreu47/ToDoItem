@@ -1,0 +1,28 @@
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Model.dll
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Model.pdb
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.csprojAssemblyReference.cache
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.AssemblyInfoInputs.cache
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.AssemblyInfo.cs
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.BL.deps.json
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.BL.dll
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.BL.pdb
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Core.pdb
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.csproj.CoreCompileInputs.cache
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.csproj.CopyComplete
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.dll
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.BL.deps.json
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.BL.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.BL.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Model.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Model.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\bin\Debug\netcoreapp3.1\TodoItem2.Core.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.csproj.CopyComplete
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.BL\obj\Debug\netcoreapp3.1\TodoItem2.BL.pdb

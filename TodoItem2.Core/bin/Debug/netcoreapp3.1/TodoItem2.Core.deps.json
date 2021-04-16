@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TodoItem2.Core/1.0.0": {
+        "runtime": {
+          "TodoItem2.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoItem2.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

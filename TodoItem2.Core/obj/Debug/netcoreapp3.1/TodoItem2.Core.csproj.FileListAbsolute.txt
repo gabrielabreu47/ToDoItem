@@ -1,0 +1,17 @@
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\bin\Debug\netcoreapp3.1\TodoItem2.Core.deps.json
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\bin\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\bin\Debug\netcoreapp3.1\TodoItem2.Core.pdb
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.AssemblyInfoInputs.cache
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.AssemblyInfo.cs
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.csproj.CoreCompileInputs.cache
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\DevProject\SOLVEX\Solvex New\Practices\ToDoItem2\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\bin\Debug\netcoreapp3.1\TodoItem2.Core.deps.json
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\bin\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\bin\Debug\netcoreapp3.1\TodoItem2.Core.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Core\obj\Debug\netcoreapp3.1\TodoItem2.Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Model.deps.json
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Model.runtimeconfig.json
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Model.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Model.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Model.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Core.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\bin\Debug\netcoreapp3.1\TodoItem2.Core.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.csproj.CopyComplete
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.dll
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.pdb
+C:\Users\Pedro\Desktop\ToDoItemAPI\ToDoItemAPI-main\TodoItem2.Model\obj\Debug\netcoreapp3.1\TodoItem2.Model.genruntimeconfig.cache
